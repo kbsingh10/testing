@@ -5,7 +5,7 @@
 #add feature code ( i create this workflow)
 #git add .
 #git commit -m "message"
-#git push -u feature
+#git push -u origin feature1
 #pr to mentor
 
 
